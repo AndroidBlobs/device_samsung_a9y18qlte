@@ -1,0 +1,10 @@
+#
+# from device/samsung/a9y18qlte/system.prop
+#
+# read DS/SS property
+import /efs/factory.prop
+ro.multisim.simslotcount=2
+#Netflix custom property
+ro.netflix.bsp_rev=Q660-13149-1
+
+#
